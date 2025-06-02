@@ -4,7 +4,7 @@ This repository provides a Catppuccin theme for Starship, drawing inspiration fr
 
 ## Screenshot Display
 
-[screenshot](https://github.com/HugoQwQ/catppuccin-starship-theme/screenshot.png)
+[screenshot](https://github.com/HugoQwQ/catppuccin-starship-theme/blob/main/screenshot.png?raw=true)
 
 ## Installation
 
